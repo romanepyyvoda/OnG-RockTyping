@@ -1,0 +1,24 @@
+C:\Users\brother\Source\Repos\OnG Rock Typing\OnG Rock Typing\bin\Debug\OnG Rock Typing.exe.config
+C:\Users\brother\Source\Repos\OnG Rock Typing\OnG Rock Typing\bin\Debug\OnG Rock Typing.exe
+C:\Users\brother\Source\Repos\OnG Rock Typing\OnG Rock Typing\bin\Debug\OnG Rock Typing.pdb
+C:\Users\brother\Source\Repos\OnG Rock Typing\OnG Rock Typing\bin\Debug\OxyPlot.dll
+C:\Users\brother\Source\Repos\OnG Rock Typing\OnG Rock Typing\bin\Debug\OxyPlot.WindowsForms.dll
+C:\Users\brother\Source\Repos\OnG Rock Typing\OnG Rock Typing\bin\Debug\WinFormAnimation.dll
+C:\Users\brother\Source\Repos\OnG Rock Typing\OnG Rock Typing\bin\Debug\OxyPlot.pdb
+C:\Users\brother\Source\Repos\OnG Rock Typing\OnG Rock Typing\bin\Debug\OxyPlot.xml
+C:\Users\brother\Source\Repos\OnG Rock Typing\OnG Rock Typing\bin\Debug\OxyPlot.WindowsForms.pdb
+C:\Users\brother\Source\Repos\OnG Rock Typing\OnG Rock Typing\bin\Debug\OxyPlot.WindowsForms.xml
+C:\Users\brother\Source\Repos\OnG Rock Typing\OnG Rock Typing\obj\Debug\OnG_Rock_Typing.IOErrorDialog.resources
+C:\Users\brother\Source\Repos\OnG Rock Typing\OnG Rock Typing\obj\Debug\OnG_Rock_Typing.Main_Form.resources
+C:\Users\brother\Source\Repos\OnG Rock Typing\OnG Rock Typing\obj\Debug\OnG_Rock_Typing.Properties.Resources.resources
+C:\Users\brother\Source\Repos\OnG Rock Typing\OnG Rock Typing\obj\Debug\OnG_Rock_Typing.SelectColumnsDialog.resources
+C:\Users\brother\Source\Repos\OnG Rock Typing\OnG Rock Typing\obj\Debug\OnG_Rock_Typing.ucFilter.resources
+C:\Users\brother\Source\Repos\OnG Rock Typing\OnG Rock Typing\obj\Debug\OnG_Rock_Typing.ucFiltering.resources
+C:\Users\brother\Source\Repos\OnG Rock Typing\OnG Rock Typing\obj\Debug\OnG_Rock_Typing.ucLoadFile.resources
+C:\Users\brother\Source\Repos\OnG Rock Typing\OnG Rock Typing\obj\Debug\OnG_Rock_Typing.ucStatistics.resources
+C:\Users\brother\Source\Repos\OnG Rock Typing\OnG Rock Typing\obj\Debug\OnG Rock Typing.csproj.GenerateResource.cache
+C:\Users\brother\Source\Repos\OnG Rock Typing\OnG Rock Typing\obj\Debug\OnG Rock Typing.csproj.CoreCompileInputs.cache
+C:\Users\brother\Source\Repos\OnG Rock Typing\OnG Rock Typing\obj\Debug\OnG Rock Typing.csproj.CopyComplete
+C:\Users\brother\Source\Repos\OnG Rock Typing\OnG Rock Typing\obj\Debug\OnG Rock Typing.exe
+C:\Users\brother\Source\Repos\OnG Rock Typing\OnG Rock Typing\obj\Debug\OnG Rock Typing.pdb
+C:\Users\brother\Source\Repos\OnG Rock Typing\OnG Rock Typing\obj\Debug\OnG Rock Typing.csprojAssemblyReference.cache
